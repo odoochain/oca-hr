@@ -7,6 +7,7 @@
         This module allows your to manage employee's training courses""",
     "version": "15.0.1.0.0",
     "license": "AGPL-3",
+    "category": "Human Resources",
     "author": "Creu Blanca,Odoo Community Association (OCA)",
     "website": "https://github.com/OCA/hr",
     "depends": ["hr", "mail"],
